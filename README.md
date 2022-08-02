@@ -1,5 +1,5 @@
 ```
- ____   I’m @adhochero
+ ____   I’m adhochero
 /    \  ^
 |_O O_)
  `UÛU
